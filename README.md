@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Welcome to my GitHub!
+
+Here's a special checksum for those who know: `5a4bc8cec447a40536258fac8eb7777c`
+
+
 <!--
 **voidlyre/voidlyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
